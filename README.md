@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Marcello and i'm currently studying Artificial Intelligence at the University of Bologna.
-- 🔭 I’m currently working on a Natural Language Processing project
+My name is Marcello and i'm studying Artificial Intelligence at the University of Bologna.
+- 🔭 I’m currently working on a Natural Language Processing project about Sentiment Analysis and Irony Detection
 - 🌱 I’m currently learning how to solve Industrial problems using AI
 
 <!--
